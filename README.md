@@ -8,6 +8,7 @@ also in comparing between a SVM applied directly on the original data and a SVM 
 Task 1: Architecture setup and model training
 
 Task 2: Model Evaluation
+
 First: 
 - we apply the autoencoder made in Task 1 on the test data to produce reconstruction of the original images.
 
